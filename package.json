@@ -1,0 +1,9 @@
+{
+  "name": "yaatrastay-hotel-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "YaatraStay hotel website with reservation backend",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
